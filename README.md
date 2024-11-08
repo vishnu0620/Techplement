@@ -1,0 +1,1 @@
+The task involved deploying a WordPress application on AWS using two architectural approaches: Monolithic (single EC2 instance for both WordPress and MySQL) and Microservices (separate EC2 instances for WordPress and MySQL). The goal was to understand the differences in deployment strategies and configurations.
